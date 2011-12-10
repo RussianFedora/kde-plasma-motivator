@@ -1,6 +1,6 @@
 Name: kde-plasma-motivator
 Version: 1.2
-Release: 3%{?dist}
+Release: 3%{?dist}.R
 Summary: Funny plasmoid for joke or motivation to work activities and keeping a good mood. 21 + .
 Summary(ru): Плазмоид-шутка для мотивации трудовой деятельности и просто хорошего настроения.
 Group: Applications/Network
@@ -42,11 +42,11 @@ rm -rf $RPM_BUILD_ROOT
 
 %changelog
 
-* Mon Aug 29 2011 Fl@sh <kaperang07@gmail.com> - 1.2-3
+* Mon Aug 29 2011 Fl@sh <kaperang07@gmail.com> - 1.2-3.R
 - fixed Makefile
 
-* Mon Aug 29 2011 Fl@sh <kaperang07@gmail.com> - 1.2-2
+* Mon Aug 29 2011 Fl@sh <kaperang07@gmail.com> - 1.2-2.R
 - fixed Makefile
 
-* Mon Aug 22 2011 Fl@sh <kaperang07@gmail.com> - 1.2-1
+* Mon Aug 22 2011 Fl@sh <kaperang07@gmail.com> - 1.2-1.R
 - Initial build
